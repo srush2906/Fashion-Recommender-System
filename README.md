@@ -6,9 +6,9 @@
 
 ## Project Video Drive URL: 
 
-## Project Documentation Drive URL: 
+## Project Documentation Drive URL: https://drive.google.com/file/d/16rAQ1hAKUvAo8MtSvhKhfFICSsvj3ISy/view?usp=sharing
 
-## Project URL: 
+## Project URL: https://b35b-43-241-134-172.ngrok-free.app 
 
 
 ## Problem Statement:
@@ -38,6 +38,11 @@ Azure Ai Translator Service: Ensure that you have translator service key, region
 Dependencies: Ensure required libraries and frameworks are installed. Include translation API keys for language support.
 Configuration: Adjust system parameters, collaborative filtering weights, and translation settings in the configuration file.
 Training: Train machine learning models using historical data for optimal performance. Set up translation model if applicable
+
+## DataSet Used
+Fashion Product Images (Small) (Size 593 MB) https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
+
+Fashion Product Images Dataset (Size 25GB) https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 
 
 ## Azure Services Used:
