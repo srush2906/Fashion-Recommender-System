@@ -79,9 +79,10 @@ The core of the translation functionality is powered by Azure AI Translator serv
 
 ## Description :
 Here I am attaching the final working website's screenshot for the reference.
-![image](https://github.com/srush2906/Fashion-Recommender-System/assets/115866345/ea869fee-6738-4a4c-bc0b-067ee803ec9a)
 
-![image](https://github.com/srush2906/Fashion-Recommender-System/assets/115866345/e0e72cc1-9d6c-4ca4-9536-421e6129a54e)
+![image](https://github.com/srush2906/Fashion-Recommender-System/assets/115866345/f7462ca6-ef47-493c-af7a-a854acd11a52)
+
+![image](https://github.com/srush2906/Fashion-Recommender-System/assets/115866345/45e49572-c0d9-4b58-bbba-848625c00f7c)
 
 
 
