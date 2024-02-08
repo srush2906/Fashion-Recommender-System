@@ -4,7 +4,7 @@
 
 ## Project Details
 
-## Project Video Drive URL: 
+## Project Video Drive URL: https://drive.google.com/file/d/12r3dtAsfLkhdo4vD13_ozb7ubaJReMLu/view?usp=sharing 
 
 ## Project Documentation Drive URL: https://drive.google.com/file/d/16rAQ1hAKUvAo8MtSvhKhfFICSsvj3ISy/view?usp=sharing
 
